@@ -1,0 +1,24 @@
+
+### Pre-Move Sep 2019 to Sep 2021:
+True Expenses: 		35.6
+Just for fun: 		11.5 
+Business Expenses: 	 8.6
+Quality of Life:	13.4
+
+### Booming Business Oct 2021 to Mar 2023:
+True Expenses: 		36.5
+Just for fun: 		19.1 
+Business Expenses: 	13
+Quality of Life:	13.5
+
+### Unemployment Apr 2023 to Dec 2023:
+True Expenses: 		54.0
+Just for fun: 		11.7 
+Business Expenses: 	22.7
+Quality of Life:	12.7
+
+### New jobs Jan to apr 2024:
+True Expenses:		34.3
+Just for fun:		10.5
+Business Expenses: 	38.5
+Quality of Life:	 8.7
